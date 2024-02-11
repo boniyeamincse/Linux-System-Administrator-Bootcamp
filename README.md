@@ -144,5 +144,8 @@
 - Preserve the System Journal
 - Manage tuning profiles
 
-## Day 09
+## Day 09 Conclusion and Next Steps
+ - Recap of key learnings from the bootcamp
+  - Resources for further learning and certification paths
+  - Feedback session and course evaluation
 
