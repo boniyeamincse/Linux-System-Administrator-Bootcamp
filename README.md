@@ -1,5 +1,22 @@
 # Linux-System-Administrator-Bootcamp
 
+# Linux Training Course Schedule
+
+| S.L | Days                                     | Payment   |
+| --- | ---------------------------------------- | --------- |
+| 1   | Day 01: Introduction to UNIX & LINUX    | Free      |
+| 2   | Day 02: Getting started with Linux      | Free      |
+| 3   | Day 03: Linux Text Processing Tools     | Free      |
+| 4   | Day 04: User and Group Administration   | Paid      |
+| 5   | Day 05: Network Management              | Paid      |
+| 6   | Day 06: Configuring OpenSSH Service    | Paid      |
+| 7   | Day 07: SELinux Security                | Paid      |
+| 8   | Day 08: Working with Backup, Archive, Log Files | Paid |
+| 9   | Day 09: Conclusion and Next Steps       | Paid      |
+| 10  | Day 10: Exam                            | Paid      |
+
+
+
 ## Course Objectives
 - Understand and use essential tools
 - Create simple shell scripts
